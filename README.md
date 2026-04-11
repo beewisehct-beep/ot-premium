@@ -1,1 +1,1 @@
-# ot-premium
+# ot-freemium
